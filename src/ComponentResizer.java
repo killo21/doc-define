@@ -175,7 +175,7 @@ public class ComponentResizer extends MouseAdapter
         }
     }
 
-    
+
     public void registerComponent(Component... components)
     {
         for (Component component : components)
