@@ -1,6 +1,6 @@
 /**
- * Created by dmitr on 4/18/2017.
+ * Created by dmitr on 4/19/2017.
  */
-public class stringSort {
-    int i = 2;
+public class stringSort{
+    public String input;
 }
